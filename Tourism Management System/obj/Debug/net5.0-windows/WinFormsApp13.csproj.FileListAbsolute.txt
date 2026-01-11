@@ -1,0 +1,197 @@
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.exe
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.deps.json
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.json
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\bin\Debug\net5.0-windows\ref\WinFormsApp13.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.pdb
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form1.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form2.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form3.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Properties.Resources.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\ref\WinFormsApp13.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.pdb
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form4.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form5.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form6.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form7.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form8.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form9.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.exe
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.deps.json
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.json
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.dev.json
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.dll
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\ref\WinFormsApp13.dll
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.pdb
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.AssemblyReference.cache
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form1.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form2.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form3.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form4.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form5.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form6.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form7.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form8.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form9.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Properties.Resources.resources
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.GenerateResource.cache
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfoInputs.cache
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfo.cs
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CoreCompileInputs.cache
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.dll
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\ref\WinFormsApp13.dll
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.pdb
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.genruntimeconfig.cache
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\WinFormsApp13-20211218T175316Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.exe
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.deps.json
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.json
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\ref\WinFormsApp13.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.pdb
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form1.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form2.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form3.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form4.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form5.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form6.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form7.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form8.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form9.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Properties.Resources.resources
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\ref\WinFormsApp13.dll
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.pdb
+C:\Users\ASUS\source\repos\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.genruntimeconfig.cache
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.exe
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.deps.json
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.json
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.dev.json
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.dll
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\ref\WinFormsApp13.dll
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.pdb
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.AssemblyReference.cache
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form1.resources
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form2.resources
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form3.resources
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form4.resources
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form5.resources
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form6.resources
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form7.resources
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form8.resources
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form9.resources
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Properties.Resources.resources
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.GenerateResource.cache
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfoInputs.cache
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfo.cs
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CoreCompileInputs.cache
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CopyComplete
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.dll
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\ref\WinFormsApp13.dll
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.pdb
+C:\New folder\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.genruntimeconfig.cache
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.dll
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.pdb
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.exe
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.deps.json
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.json
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.dev.json
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.dll
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\WinFormsApp13.pdb
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form1.resources
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form2.resources
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form3.resources
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form4.resources
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form5.resources
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form6.resources
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form7.resources
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form8.resources
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Form9.resources
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.Properties.Resources.resources
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfo.cs
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CopyComplete
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\refint\WinFormsApp13.dll
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\WinFormsApp13.genruntimeconfig.cache
+C:\Users\Asus\Downloads\WinFormsApp13-20211219T033956Z-001 (1)\WinFormsApp13-20211219T033956Z-001\WinFormsApp13\obj\Debug\net5.0-windows\ref\WinFormsApp13.dll
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\WinFormsApp13.exe
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\WinFormsApp13.deps.json
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.json
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\WinFormsApp13.runtimeconfig.dev.json
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\WinFormsApp13.dll
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\WinFormsApp13.pdb
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.csproj.AssemblyReference.cache
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.Form1.resources
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.Form2.resources
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.Form3.resources
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.Form4.resources
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.Form5.resources
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.Form6.resources
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.Form7.resources
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.Form8.resources
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.Form9.resources
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.Properties.Resources.resources
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.csproj.GenerateResource.cache
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.GeneratedMSBuildEditorConfig.editorconfig
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfoInputs.cache
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.AssemblyInfo.cs
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CoreCompileInputs.cache
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.csproj.CopyComplete
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.dll
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\refint\WinFormsApp13.dll
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.pdb
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\WinFormsApp13.genruntimeconfig.cache
+G:\2nd year\6th Semester (Spring 23-24)\Csharp\c# project\C# project\obj\Debug\net5.0-windows\ref\WinFormsApp13.dll
